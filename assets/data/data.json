@@ -1,0 +1,210 @@
+{
+  "test1": {
+    "files": [
+      {
+        "type": "image",
+        "key": "button_pause",
+        "url": "assets/images/button_pause.png"
+      },
+      {
+        "type": "image",
+        "key": "background",
+        "url": "assets/images/background.png"
+      },
+      {
+        "type": "image",
+        "key": "cat",
+        "url": "assets/images/cat.png"
+      },
+      {
+        "type": "image",
+        "key": "bug",
+        "url": "assets/images/bug.png"
+      },
+      {
+        "type": "image",
+        "key": "dog",
+        "url": "assets/images/dog.png"
+      },
+      {
+        "type": "image",
+        "key": "fox",
+        "url": "assets/images/fox.png"
+      },
+      {
+        "type": "image",
+        "key": "hen",
+        "url": "assets/images/hen.png"
+      },
+      {
+        "type": "image",
+        "key": "jam",
+        "url": "assets/images/jam.png"
+      },
+      {
+        "type": "image",
+        "key": "gum",
+        "url": "assets/images/gum.png"
+      },
+      {
+        "type": "image",
+        "key": "jet",
+        "url": "assets/images/jet.png"
+      },
+      {
+        "type": "image",
+        "key": "kid",
+        "url": "assets/images/kid.png"
+      },
+      {
+        "type": "image",
+        "key": "pig",
+        "url": "assets/images/pig.png"
+      },
+      {
+        "type": "image",
+        "key": "van",
+        "url": "assets/images/van.png"
+      },
+      {
+        "type": "image",
+        "key": "a",
+        "url": "assets/images/word_a.png"
+      },
+      {
+        "type": "image",
+        "key": "b",
+        "url": "assets/images/word_b.png"
+      },
+      {
+        "type": "image",
+        "key": "c",
+        "url": "assets/images/word_c.png"
+      },
+      {
+        "type": "image",
+        "key": "d",
+        "url": "assets/images/word_d.png"
+      },
+      {
+        "type": "image",
+        "key": "e",
+        "url": "assets/images/word_e.png"
+      },
+      {
+        "type": "image",
+        "key": "f",
+        "url": "assets/images/word_f.png"
+      },
+      {
+        "type": "image",
+        "key": "g",
+        "url": "assets/images/word_g.png"
+      },
+      {
+        "type": "image",
+        "key": "h",
+        "url": "assets/images/word_h.png"
+      },
+      {
+        "type": "image",
+        "key": "i",
+        "url": "assets/images/word_i.png"
+      },
+      {
+        "type": "image",
+        "key": "j",
+        "url": "assets/images/word_j.png"
+      },
+      {
+        "type": "image",
+        "key": "k",
+        "url": "assets/images/word_k.png"
+      },
+      {
+        "type": "image",
+        "key": "l",
+        "url": "assets/images/word_l.png"
+      },
+      {
+        "type": "image",
+        "key": "m",
+        "url": "assets/images/word_m.png"
+      },
+      {
+        "type": "image",
+        "key": "n",
+        "url": "assets/images/word_n.png"
+      },
+      {
+        "type": "image",
+        "key": "o",
+        "url": "assets/images/word_o.png"
+      },
+      {
+        "type": "image",
+        "key": "p",
+        "url": "assets/images/word_p.png"
+      },
+      {
+        "type": "image",
+        "key": "q",
+        "url": "assets/images/word_q.png"
+      },
+      {
+        "type": "image",
+        "key": "r",
+        "url": "assets/images/word_r.png"
+      },
+      {
+        "type": "image",
+        "key": "s",
+        "url": "assets/images/word_s.png"
+      },
+      {
+        "type": "image",
+        "key": "t",
+        "url": "assets/images/word_t.png"
+      },
+      {
+        "type": "image",
+        "key": "u",
+        "url": "assets/images/word_u.png"
+      },
+      {
+        "type": "image",
+        "key": "v",
+        "url": "assets/images/word_v.png"
+      },
+      {
+        "type": "image",
+        "key": "w",
+        "url": "assets/images/word_w.png"
+      },
+      {
+        "type": "image",
+        "key": "x",
+        "url": "assets/images/word_x.png"
+      },
+      {
+        "type": "image",
+        "key": "y",
+        "url": "assets/images/word_y.png"
+      },
+      {
+        "type": "image",
+        "key": "z",
+        "url": "assets/images/word_z.png"
+      }
+    ]
+  },
+
+  "meta": {
+    "generated": "1401380327373",
+    "app": "Phaser 3 Asset Packer",
+    "url": "https://phaser.io",
+    "version": "1.0",
+    "copyright": "Photon Storm Ltd. 2018"
+  }
+}
+
